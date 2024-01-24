@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/music-tracker/static/css/main.7c92fbe1.css",
+    "main.js": "/music-tracker/static/js/main.ad94944a.js",
+    "static/js/787.8725412f.chunk.js": "/music-tracker/static/js/787.8725412f.chunk.js",
+    "static/media/icomoon.eot?dkl18": "/music-tracker/static/media/icomoon.bc34014095755ab5fe4e.eot",
+    "static/media/icomoon.woff?dkl18": "/music-tracker/static/media/icomoon.b4bc7f17596dd5aa448f.woff",
+    "static/media/icomoon.svg?dkl18": "/music-tracker/static/media/icomoon.ee10036cc85b5aebd480.svg",
+    "static/media/icomoon.ttf?dkl18": "/music-tracker/static/media/icomoon.63a8705ba5e7eedb2057.ttf",
+    "index.html": "/music-tracker/index.html",
+    "main.7c92fbe1.css.map": "/music-tracker/static/css/main.7c92fbe1.css.map",
+    "main.ad94944a.js.map": "/music-tracker/static/js/main.ad94944a.js.map",
+    "787.8725412f.chunk.js.map": "/music-tracker/static/js/787.8725412f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c92fbe1.css",
+    "static/js/main.ad94944a.js"
+  ]
+}
